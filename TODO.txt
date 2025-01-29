@@ -1,1 +1,8 @@
+---- CRASHES DATASET -----
 - check TRAFFICWAY_TYPE OTHER
+- treat invalid speed
+
+--------
+
+---- PEOPLE DATASET -----
+- keep only SEAT_NO 1
