@@ -1,7 +1,9 @@
 ---- CRASHES DATASET -----
 - check TRAFFICWAY_TYPE OTHER
-- treat invalid speed
-
+- treat invalid speed and weird speed (1, 2, 3, 4, 6, etc mph)
+- Decide what to do with LATITUDE - LONGITUDE
+- Decide what to do with all the kind of injuries and the number of people
+    possiamo combinarli per decidere una score di severity, e.g. fatality = 10 severity x numero persone
 --------
 
 ---- PEOPLE DATASET -----
