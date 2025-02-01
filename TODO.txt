@@ -4,7 +4,11 @@
 - Decide what to do with LATITUDE - LONGITUDE
 - Decide what to do with all the kind of injuries and the number of people
     possiamo combinarli per decidere una score di severity, e.g. fatality = 10 severity x numero persone
+- check for LATITUDE and LONGITUDE, maybe some are off and not in CHICAGO
 --------
 
 ---- PEOPLE DATASET -----
-- keep only SEAT_NO 1
+- Decide if we want to keep only drivers info
+- ✅ check distribution between age availability and position (drivers etc) ✅
+- decide what to do with CITY, STATE, ZIPCODE
+- what to do with INJURY_CLASSIFICATION
