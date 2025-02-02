@@ -20,6 +20,10 @@
 
 ------------------------
 
+- DROPPARE NON DRIVER 
+
+
+
 - Create new feature:
     - DRIVER age
     - AVG passenger age
@@ -29,3 +33,5 @@
 - capire se più guidatori possono essere nello stesso incidente e in caso come trattarli, salviamo avg?
 - COME MERGIARE I DATASET DECIDERE!!!!!!!!!!!!
 - controllare valori corretti durante il merge (stessa data o altro tipo num persone)
+
+-
