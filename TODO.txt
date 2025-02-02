@@ -12,3 +12,7 @@
 - ✅ check distribution between age availability and position (drivers etc) ✅
 - decide what to do with CITY, STATE, ZIPCODE
 - what to do with INJURY_CLASSIFICATION
+
+---- VEHICLE DATASET ----
+- a che serve VEHICLE_ID ???? forse un veicolo puo avere più incidenti????
+- UNIT_NO.. trattarlo come numero veicoli? e quindi droppare 0 e big numero
