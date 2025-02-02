@@ -16,3 +16,16 @@
 ---- VEHICLE DATASET ----
 - a che serve VEHICLE_ID ???? forse un veicolo puo avere più incidenti????
 - UNIT_NO.. trattarlo come numero veicoli? e quindi droppare 0 e big numero
+
+
+------------------------
+
+- Create new feature:
+    - DRIVER age
+    - AVG passenger age
+
+- Valutare se tenere SOLO età del guidatore (ogni incidente ha almeno 1 guidatore ma indefinito passeggeri) 
+
+- capire se più guidatori possono essere nello stesso incidente e in caso come trattarli, salviamo avg?
+- COME MERGIARE I DATASET DECIDERE!!!!!!!!!!!!
+- controllare valori corretti durante il merge (stessa data o altro tipo num persone)
