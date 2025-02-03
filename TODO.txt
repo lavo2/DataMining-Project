@@ -20,13 +20,13 @@
 
 ------------------------
 
-- DROPPARE NON DRIVER 
+- ✅ DROPPARE NON DRIVER ✅
 
 
 
 - Create new feature:
     - DRIVER age
-    - AVG passenger age
+    - Vehicle type categporical 
 
 - Valutare se tenere SOLO età del guidatore (ogni incidente ha almeno 1 guidatore ma indefinito passeggeri) 
 
