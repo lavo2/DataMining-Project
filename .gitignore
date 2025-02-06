@@ -1,3 +1,5 @@
 .venv
 dataset/*
 lec/
+crash_map_bin.html
+crash_map.html
