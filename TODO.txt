@@ -1,10 +1,10 @@
 ---- CRASHES DATASET -----
 - check TRAFFICWAY_TYPE OTHER
-- treat invalid speed and weird speed (1, 2, 3, 4, 6, etc mph)
-- Decide what to do with LATITUDE - LONGITUDE
+- ✅ treat invalid speed and weird speed (1, 2, 3, 4, 6, etc mph)
+- 🛈 Decide what to do with LATITUDE - LONGITUDE
 - Decide what to do with all the kind of injuries and the number of people
     possiamo combinarli per decidere una score di severity, e.g. fatality = 10 severity x numero persone
-- check for LATITUDE and LONGITUDE, maybe some are off and not in CHICAGO
+- ✅ check for LATITUDE and LONGITUDE, maybe some are off and not in CHICAGO
 --------
 
 ---- PEOPLE DATASET -----
@@ -35,3 +35,6 @@
 - controllare valori corretti durante il merge (stessa data o altro tipo num persone)
 
 -
+
+
+- Correlation between Safety Equipment and casuality
