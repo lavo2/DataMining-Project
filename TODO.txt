@@ -50,8 +50,8 @@
 
 - stessa cosa con numero incidenti
 
-- gestire TOW in profile
-- FATALITY O INCAPACITATING in base al veicolo
-- ANCHE TOW
-- ANCHE DANNI
-- DANNI DATASET PROFILE
+-  ✅ gestire TOW in profile  ✅
+- FATALITY O INCAPACITATING in base al veicolo (da dove prendiamo il veicolo type????????????????????)
+- ✅ ANCHE TOW ✅
+- ✅ ANCHE DANNI ✅
+- ✅DANNI DATASET PROFILE ✅
