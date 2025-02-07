@@ -39,3 +39,19 @@
 
 
 - Correlation between Safety Equipment and casuality
+
+
+----
+
+- crashes["vehicle_involvement_rate"] = crashes["NUM_UNITS"] / crashes.groupby(["CRASH_YEAR", "CRASH_MONTH", "BEAT_OF_OCCURRENCE"]).transform("count")["CRASH_RECORD_ID"]
+        cambiare questo con qualche statistica tipo
+        veicoli coinvolti in questo mese/BEAT_OF_OCCURRENCE rispetto a il mese e tutti i BEAT_OF_OCCURRENCE
+
+
+- stessa cosa con numero incidenti
+
+- gestire TOW in profile
+- FATALITY O INCAPACITATING in base al veicolo
+- ANCHE TOW
+- ANCHE DANNI
+- DANNI DATASET PROFILE
