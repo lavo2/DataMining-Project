@@ -9,3 +9,4 @@ severe_injury_rate = rate di quante persone sono gravemente ferite
 avg_crash_severity_score = media di tutti i severity score dove severity score è in base a tipo "train, pedone ... "
 injury_severity_score = media del (?)
 vehicle_involvement_rate = Rispetto a tutti gli incidenti in questo mese, % di veicoli involti nell'incidente.
+speed_influence = Incidenti quando la speed della strada > 30
