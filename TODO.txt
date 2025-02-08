@@ -62,3 +62,4 @@ caratteristica centroidi
 varianza basata sul Cluster
 lineplot ?
 selezione features
+Validazione su piu variabili
