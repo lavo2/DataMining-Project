@@ -51,7 +51,14 @@
 - stessa cosa con numero incidenti
 
 -  ✅ gestire TOW in profile  ✅
-- FATALITY O INCAPACITATING in base al veicolo (da dove prendiamo il veicolo type????????????????????)
+- ✅ FATALITY ✅ O INCAPACITATING in base al veicolo 
 - ✅ ANCHE TOW ✅
 - ✅ ANCHE DANNI ✅
 - ✅DANNI DATASET PROFILE ✅
+
+Clustering:
+Cluster buona siluette
+caratteristica centroidi
+varianza basata sul Cluster
+lineplot ?
+selezione features
